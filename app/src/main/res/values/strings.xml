@@ -4,8 +4,8 @@
     <string name="main.msg.billAmount">Bill Amount</string>
     <string name="main.hint.billAmount">Enter Bill Amount Here</string>
     <string name="main.msg.serviceRating">Service Rating</string>
-    <string name="main.msg.tipPercent">%s%% Tip Percent</string>
-    <string name="main.msg.tipTotal">$s% Tip Total</string>
+    <string name="main.msg.tipPercent">%1$s%% Tip Percent</string>
+    <string name="main.msg.tipTotal">$%1$s Tip Total</string>
     <string name="main.msg.billTotal">Bill Total</string>
-    <string name="main.msg.billTotalResult">$s%</string>
+    <string name="main.msg.billTotalResult">$%1$s</string>
 </resources>
